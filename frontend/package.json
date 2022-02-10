@@ -15,7 +15,7 @@
     "bootstrap-vue": "^2.11.0",
     "buefy": "^0.8.15",
     "core-js": "^3.6.4",
-    "node-sass": "^4.13.1",
+    "node-sass": "^7.0.0",
     "sass-loader": "^8.0.2",
     "save": "^2.4.0",
     "vue": "^2.6.11",
